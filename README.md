@@ -2,9 +2,9 @@
 
 ### Names   :    Github ID
 Mark Roberson: Markroberson12 <br>
-Austin Harmon: <br>
-Gary Davis: <br>
-Blade Arnold: <br>
+Austin Harmon: austinHarm <br>
+Gary Davis: xxJLyricxx <br>
+Blade Arnold: baa215 <br>
 
 ### Languages
 A combination of HTML and Java
