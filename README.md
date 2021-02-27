@@ -7,7 +7,7 @@ Gary Davis: xxJLyricxx <br>
 Blade Arnold: baa215 <br>
 
 ### Languages
-A combination of HTML and Java
+A combination of HTML and JavaScript
 
 ### Techniques
 Combination of trial and error and Object-Oriented Programming
