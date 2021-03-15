@@ -16,7 +16,7 @@ install:
   deploy:
   provider: pages
   skipo-cleanup: true
-  github-token: $GITHUB_TOKEN
+
   
   
   
