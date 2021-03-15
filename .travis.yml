@@ -1,0 +1,26 @@
+language: node_js
+
+node_js:
+  - 11.6.0
+  - node
+  
+cache: yarn
+  
+install:
+  - yarn install
+  
+  script:
+    - yarn test 
+    - yarn run build
+    
+  deploy:
+  provider: pages
+  skipo-cleanup: true
+  github-token: $GITHUB_TOKEN
+  
+  
+  
+  
+  
+ 
+ 
